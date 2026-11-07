@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
