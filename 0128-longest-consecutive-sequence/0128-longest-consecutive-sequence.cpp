@@ -5,13 +5,14 @@ public:
 
         if(n == 0) return 0;
 
-        unordered_set<int> st(nums.begin(), nums.end());
+        unordered_set<int> st;
 
-        int longest = 0;
-
+        int longest = 1;
+        for(int i =0;i<n;i++){
+            st.insert(nums[i]);
+        }
         for(auto it : st) {
 
-            // Check if it is the starting element
             if(st.find(it - 1) == st.end()) {
 
                 int cnt = 1;
