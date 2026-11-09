@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
