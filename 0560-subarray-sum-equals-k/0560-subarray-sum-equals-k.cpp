@@ -8,8 +8,7 @@ public:
         int count = 0;
         for(int i = 0;i<n;i++){
             sum += nums[i];
-            if(mp.find(sum-k) != mp.end()){
-                count += mp[sum - k];}
+            count += mp[sum - k];
             mp[sum]++;
 
         }
