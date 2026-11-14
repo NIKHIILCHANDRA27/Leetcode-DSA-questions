@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0128-longest-consecutive-sequence) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/NIKHIILCHANDRA27/Leetcode-DSA-questions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
